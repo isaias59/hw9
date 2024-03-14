@@ -4,8 +4,8 @@
 #include <ranges>
 #include <cctype> 
 
-#include "map_array.h"
-#include "set_list.h"
+#include "map_array.hpp"
+#include "set_list.hpp"
 
 using namespace std;
 
